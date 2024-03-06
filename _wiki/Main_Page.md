@@ -17,7 +17,7 @@ summary of major events in the canon.
 - [Places](:Category:places "wikilink")
 - [Languages](:Category:languages "wikilink")
 - [People](:Category:people "wikilink")
-- [All Pages](Special:AllPages "wikilink")
+- [All Pages](:Special:AllPages "wikilink")
 
 ## Guidelines and Info
 

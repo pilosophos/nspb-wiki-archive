@@ -1,0 +1,9 @@
+---
+title: "Special: AllPages"
+layout: wiki
+---
+<ul>
+  {% for page in site.wiki %}
+    <li><a href="{{ page.url }}">{{ page.title | replace: "_", " " }}</a> <span class="text-gray-100">({{ page.content.size }} characters)</span></li>
+  {% endfor %}
+</ul>
