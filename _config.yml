@@ -1,0 +1,14 @@
+name: NSPB Canon Wiki (Backup)
+
+description: Backup of the NSPB Canon Wiki, formerly hosted on Miraheze
+
+collections:
+  wiki:
+    output: true
+
+
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
