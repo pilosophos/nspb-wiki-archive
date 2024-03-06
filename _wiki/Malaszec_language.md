@@ -40,7 +40,6 @@ Malaszec consonant phonemes
 |-----------|-------|------|
 | Close     | i ɪ   |      |
 | Close-mid | e     | o    |
-|           |       |      |
 | Open-mid  | ɛ     | ɔ    |
 | Open      |       | ɒ    |
 
@@ -133,132 +132,131 @@ Obstruents word finally are devoiced
 
 ## Orthography
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Phoneme</p></th>
-<th><p>Orthography</p></th>
-<th><p>Notes</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>/ɒ/</p></td>
-<td><p>a</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>/e/</p></td>
-<td rowspan="2"><p>e</p></td>
-<td rowspan="2"></td>
-</tr>
-<tr class="odd">
-<td><p>/ɛ/</p></td>
-</tr>
-<tr class="even">
-<td><p>/i/</p></td>
-<td rowspan="2"><p>i, j, ij</p></td>
-<td rowspan="2"><ul>
-<li>High vowels in diphthongs ending in high vowels are written as
-<j></li>
-<li>Word-final high vowels are written as <ij></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>/ɪ/</p></td>
-</tr>
-<tr class="even">
-<td><p>/o/</p></td>
-<td rowspan="2"><p>o, u, w</p></td>
-<td rowspan="2"><ul>
-<li>&lt;u&gt; and <w> are more common in archaic spellings and
-loanwords</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>/ɔ/</p></td>
-</tr>
-<tr class="even">
-<td><p>/m/</p></td>
-<td><p>m</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>/n/</p></td>
-<td><p>n<br />
-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>/p/</p></td>
-<td><p>p</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>/t/</p></td>
-<td><p>t</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>/d/</p></td>
-<td><p>d</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>/k/</p></td>
-<td><p>k, c</p></td>
-<td><ul>
-<li><c> more commonly appears in older words than newer ones, and more
-commonly at the end of words than in the middle of words</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>/ɡ/</p></td>
-<td><p>g</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>/v/</p></td>
-<td><p>v, f</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>/s/</p></td>
-<td><p>s</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>/z/</p></td>
-<td><p>z</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>/ʒ/</p></td>
-<td><p>sz</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>/h/</p></td>
-<td><p>h</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>/r/</p></td>
-<td><p>r</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>/l/</p></td>
-<td><p>l</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>/j/</p></td>
-<td><p>j</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Phoneme
+</th>
+<th>Orthography
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>/ɒ/
+</td>
+<td>a
+</td></tr>
+<tr>
+<td>/e/
+</td>
+<td rowspan="2">e
+</td>
+<td rowspan="2">
+</td></tr>
+<tr>
+<td>/ɛ/
+</td></tr>
+<tr>
+<td>/i/
+</td>
+<td rowspan="2">i, j, ij
+</td>
+<td rowspan="2">
+<ul><li>High vowels in diphthongs ending in high vowels are written as &lt;j&gt;</li>
+<li>Word-final high vowels are written as &lt;ij&gt;</li></ul>
+</td></tr>
+<tr>
+<td>/ɪ/
+</td></tr>
+<tr>
+<td>/o/
+</td>
+<td rowspan="2">o, u, w
+</td>
+<td rowspan="2">
+<ul><li>&lt;u&gt; and &lt;w&gt; are more common in archaic spellings and loanwords</li></ul>
+</td></tr>
+<tr>
+<td>/ɔ/
+</td></tr>
+<tr>
+<td>/m/
+</td>
+<td>m
+</td></tr>
+<tr>
+<td>/n/
+</td>
+<td>n<br>
+</td></tr>
+<tr>
+<td>/p/
+</td>
+<td>p
+</td></tr>
+<tr>
+<td>/t/
+</td>
+<td>t
+</td></tr>
+<tr>
+<td>/d/
+</td>
+<td>d
+</td></tr>
+<tr>
+<td>/k/
+</td>
+<td>k, c
+</td>
+<td>
+<ul><li>&lt;c&gt; more commonly appears in older words than newer ones, and more commonly at the end of words than in the middle of words</li></ul>
+</td></tr>
+<tr>
+<td>/ɡ/
+</td>
+<td>g
+</td></tr>
+<tr>
+<td>/v/
+</td>
+<td>v, f
+</td></tr>
+<tr>
+<td>/s/
+</td>
+<td>s
+</td></tr>
+<tr>
+<td>/z/
+</td>
+<td>z
+</td></tr>
+<tr>
+<td>/ʒ/
+</td>
+<td>sz
+</td></tr>
+<tr>
+<td>/h/
+</td>
+<td>h
+</td></tr>
+<tr>
+<td>/r/
+</td>
+<td>r
+</td></tr>
+<tr>
+<td>/l/
+</td>
+<td>l
+</td></tr>
+<tr>
+<td>/j/
+</td>
+<td>j
+</td></tr></tbody></table>
 
 ## Nouns
 
@@ -270,12 +268,24 @@ clitics (consisting mainly of locative cases), the genitive clitics, and
 the person clitics. The core and peripheral case clitics are together
 known as "case clitics," which never co-occur with the genitive clitics.
 
-| Case       |                  |
-|------------|------------------|
-| Core cases | Peripheral cases |
-| Genitive   |                  |
-
-NP clitic position classes
+<table class="wikitable">
+<caption>NP clitic position classes
+</caption>
+<tbody><tr>
+<th colspan="2">Case
+</th>
+<th>Person
+</th></tr>
+<tr>
+<td>Core cases
+</td>
+<td>Peripheral cases
+</td>
+<td rowspan="2">Person
+</td></tr>
+<tr>
+<td colspan="2">Genitive
+</td></tr></tbody></table>
 
 ### Gender
 
@@ -325,12 +335,28 @@ from Andeijan.
 
 ### Core case clitics
 
-|            | Mundane | Arcane |
-|------------|---------|--------|
-| Agentive   | mir     | mav    |
-| Patientive | ∅       |        |
-
-Core case clitics
+<table class="wikitable">
+<caption>Core case clitics
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>Mundane
+</th>
+<th>Arcane
+</th></tr>
+<tr>
+<th>Agentive
+</th>
+<td>mir
+</td>
+<td>mav
+</td></tr>
+<tr>
+<th>Patientive
+</th>
+<td colspan="2">∅
+</td></tr></tbody></table>
 
 The core case clitics express the mandatory subject/object verb
 arguments. Malaszec is a fluid-S active-stative language, where the
@@ -420,37 +446,54 @@ nominalized verb phrase (VP).
 
 ### Genitive clitics
 
-<table>
-<caption>Genitive clitics</caption>
-<thead>
-<tr class="header">
-<th><p>Mundane<br />
-</p></th>
-<th><p>Arcane</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>nos</p></td>
-<td><p>sejr</p></td>
-</tr>
-</tbody>
-</table>
-
-Genitive clitics
+<table class="wikitable">
+<caption>Genitive clitics
+</caption>
+<tbody><tr>
+<th>Mundane<br>
+</th>
+<th>Arcane
+</th></tr>
+<tr>
+<td>nos
+</td>
+<td>sejr
+</td></tr></tbody></table>
 
 The genitive clitics mark an NP as the possessor of another NP that
 follows it.
 
 ### Person clitics
 
-|     | Mundane | Arcane |
-|-----|---------|--------|
-| 1   | nja     | rij    |
-| 2   | sze     | jat    |
-| 3   | ∅       |        |
-
-Person clitics
+<table class="wikitable">
+<caption>Person clitics
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>Mundane
+</th>
+<th>Arcane
+</th></tr>
+<tr>
+<th>1
+</th>
+<td>nja
+</td>
+<td>rij
+</td></tr>
+<tr>
+<th>2
+</th>
+<td>sze
+</td>
+<td>jat
+</td></tr>
+<tr>
+<th>3
+</th>
+<td colspan="2">∅
+</td></tr></tbody></table>
 
 Nouns are third person by default, but adding a person suffix can make
 it first or second person. A person clitic cannot be added if the head
