@@ -1,5 +1,6 @@
 ---
 title: Alliance_For_Democratic_Szamara
+layout: wiki
 ---
 The **Alliance For Democratic Szamara** or **ADS** is an international
 organization and military alliance. Formed initially to provide mutual

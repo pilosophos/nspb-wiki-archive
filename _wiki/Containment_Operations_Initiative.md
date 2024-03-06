@@ -1,5 +1,6 @@
 ---
 title: Containment_Operations_Initiative
+layout: wiki
 ---
 The **Containment Operations Initiative** (commonly abbreviated as the
 COI) is an paranational military organization that was created prior to

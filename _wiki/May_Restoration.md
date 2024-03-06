@@ -1,5 +1,6 @@
 ---
 title: May_Restoration
+layout: wiki
 ---
 The **May Restoration**, or 30th of May Incident, was a coup d'état in
 the [Kingdom of Urendir](Erothena "wikilink") on May 30 1938, launched

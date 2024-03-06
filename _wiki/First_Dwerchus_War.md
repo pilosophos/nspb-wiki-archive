@@ -1,5 +1,6 @@
 ---
 title: First_Dwerchus_War
+layout: wiki
 ---
 **The First Dwerchus War**, also known as the **Dwerchan War of
 Independence**, was a war fought by the unrecognized Republic of

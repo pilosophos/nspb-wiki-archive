@@ -1,5 +1,6 @@
 ---
 title: Ilaje_Otrovec
+layout: wiki
 ---
 **Ilaje Otrovec**, born 16 March 1970, is the current President of
 [Esterlod Zloije](Zloije_(business)#Esterlod "wikilink"), a conglomerate

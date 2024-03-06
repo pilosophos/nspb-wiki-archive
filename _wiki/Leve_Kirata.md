@@ -1,5 +1,6 @@
 ---
 title: Leve_Kirata
+layout: wiki
 ---
 Leve Kirata is an important cultural hero and founding father within
 [Erothenian traditional religion](Erothena "wikilink").

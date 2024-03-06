@@ -1,5 +1,6 @@
 ---
 title: Tekna
+layout: wiki
 ---
 The *Tekna* is an organized crime syndicate originating in
 [Malaszec](Malaszec "wikilink") involved in a wide variety of criminal

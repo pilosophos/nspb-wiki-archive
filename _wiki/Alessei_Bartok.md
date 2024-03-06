@@ -1,5 +1,6 @@
 ---
 title: Alessei_Bartok
+layout: wiki
 ---
 **Alessei Bartok** (*né* Albreckt Bartjes; 29 June 1899 – 5 December
 2008) was a Dreunist revolutionary, Dwerchan Adventurer, and the First

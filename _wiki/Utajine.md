@@ -1,5 +1,6 @@
 ---
 title: Utajine
+layout: wiki
 ---
 The **Utajine** Corporation is one of four megacorporations originating
 from [Erothena](Erothena "wikilink"). The holding company, fully owned

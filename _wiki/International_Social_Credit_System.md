@@ -1,5 +1,6 @@
 ---
 title: International_Social_Credit_System
+layout: wiki
 ---
 The International Social Credit System (ISCS) is an international
 reputation system that keeps track of individuals' reputation using a

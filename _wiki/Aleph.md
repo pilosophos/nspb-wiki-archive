@@ -1,5 +1,6 @@
 ---
 title: Aleph
+layout: wiki
 ---
 **Aleph** are the de facto rulers of [\[Name
 Pending](Name_Pending "wikilink")\]. Their creation marks year zero of

@@ -1,5 +1,6 @@
 ---
 title: Andeijan_language
+layout: wiki
 ---
 **Andeijan**, also known as Malaszec Feyspeech, is a language in the
 Southern Malaszec branch of the [Malaszec language

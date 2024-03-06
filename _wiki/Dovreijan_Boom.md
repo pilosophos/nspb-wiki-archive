@@ -1,5 +1,6 @@
 ---
 title: Dovreijan_Boom
+layout: wiki
 ---
 The Dovreijan Boom is the period of economic propserity in Dovreija
 following the discovery of mineral and oil riches there in 1993. The

@@ -1,5 +1,6 @@
 ---
 title: Club_Ball
+layout: wiki
 ---
 **Club Ball** or **Ueus Seholios** (*"Course of the Sun"*, *"Daily
 Agenda"*) is a game within the Thrown ball family, related to

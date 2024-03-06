@@ -1,5 +1,6 @@
 ---
 title: Tormansco_the_Oracle
+layout: wiki
 ---
 **Tormansco the Oracle** (c.1900-c.1980) was a Clairvoyant,
 Metamathematician, and Sociologist who founded the field of Clairvoyancy

@@ -1,5 +1,6 @@
 ---
 title: Galleno
+layout: wiki
 ---
 Galleno was a [Datamage](datamancy "wikilink"), Engineer, and Logician
 who is famous for implementing

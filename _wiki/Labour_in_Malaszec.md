@@ -1,5 +1,6 @@
 ---
 title: Labour_in_Malaszec
+layout: wiki
 ---
 This page describes the historical and current state of labour in
 [Malaszec](Malaszec "wikilink").

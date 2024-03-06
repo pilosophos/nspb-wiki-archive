@@ -1,5 +1,6 @@
 ---
 title: Oloromnal_Quantum
+layout: wiki
 ---
 Oloromnal Quantum Computers ("OQ") was created in 2044 after it spun off
 from Agerszijn Computing Research, where it had originally been

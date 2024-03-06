@@ -1,5 +1,6 @@
 ---
 title: Faerie
+layout: wiki
 ---
 Faeries are sentient bipeds who are notable for their small size and
 colourful wings. They owe their small size to the mana they are infused

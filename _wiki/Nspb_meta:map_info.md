@@ -1,5 +1,6 @@
 ---
 title: Nspb_meta:map_info
+layout: wiki
 ---
 This page contains OOC info about the map, which was initially
 computer-generated at the start of the project.

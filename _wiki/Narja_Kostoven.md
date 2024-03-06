@@ -1,5 +1,6 @@
 ---
 title: Narja_Kostoven
+layout: wiki
 ---
 **Narja Aswaija Kostoven** (16 March 1916 - 6 November 1953), later
 known as Asalij Kasija Lasven, was a [Malaszec](Malaszec "wikilink")

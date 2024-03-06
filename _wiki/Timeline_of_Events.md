@@ -1,5 +1,6 @@
 ---
 title: Timeline_of_Events
+layout: wiki
 ---
 This article is a list of major events in the history of the known
 world.

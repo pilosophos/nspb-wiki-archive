@@ -1,5 +1,6 @@
 ---
 title: Erothena
+layout: wiki
 ---
 **Erothena**, officially known as **The Repbulic of Erothena**, is a
 tropical country located on the eastern end of (X) and the southern half

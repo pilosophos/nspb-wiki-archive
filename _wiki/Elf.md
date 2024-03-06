@@ -1,5 +1,6 @@
 ---
 title: Elf
+layout: wiki
 ---
 Elves are sentient bipeds often recognized by their pointed ears. They
 have been known to form large social groups, sometimes with other

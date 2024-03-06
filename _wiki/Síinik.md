@@ -1,5 +1,6 @@
 ---
 title: Síinik
+layout: wiki
 ---
 Síinik are sapient bipedal pseudo-arthropods recognizable by their red
 skin, four arms, and partial exoskeletons. They are native to

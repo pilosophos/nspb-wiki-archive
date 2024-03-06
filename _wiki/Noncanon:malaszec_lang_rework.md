@@ -1,5 +1,6 @@
 ---
 title: Noncanon:malaszec_lang_rework
+layout: wiki
 ---
 This is part of the (currently) non-canon rework of the Malaszec
 Language.

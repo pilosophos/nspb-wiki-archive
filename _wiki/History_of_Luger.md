@@ -1,5 +1,6 @@
 ---
 title: History_of_Luger
+layout: wiki
 ---
 ## History
 

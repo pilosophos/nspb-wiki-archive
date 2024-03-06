@@ -1,5 +1,6 @@
 ---
 title: Luger
+layout: wiki
 ---
 ## Republic of Luger
 

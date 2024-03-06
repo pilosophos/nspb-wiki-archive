@@ -1,5 +1,6 @@
 ---
 title: Recaria
+layout: wiki
 ---
 **Recaria** (Recarian: *Rekari-baje*), officially the **Recarian
 Republic** (Recarian: *Rekari-badimaranresjje*), is a country in

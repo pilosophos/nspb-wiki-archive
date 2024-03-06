@@ -1,5 +1,6 @@
 ---
 title: Blue_Faerie-Eater
+layout: wiki
 ---
 <figure>
 <img src="bluspooder.jpg" title="bluspooder.jpg" width="320" />

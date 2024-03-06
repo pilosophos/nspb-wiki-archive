@@ -1,5 +1,6 @@
 ---
 title: Storytelling_Day
+layout: wiki
 ---
 **Storytelling Day** is a [Malaszec](Malaszec "wikilink") holiday
 celebrated during the winter solstice featuring the Storytelling, when

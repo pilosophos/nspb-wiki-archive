@@ -1,5 +1,6 @@
 ---
 title: Lu'umil
+layout: wiki
 ---
 **Lu'umil**, officially known as **The Confederation of Lu'umil**, is a
 tropical country inhabited by -insert ranting here-. The country is

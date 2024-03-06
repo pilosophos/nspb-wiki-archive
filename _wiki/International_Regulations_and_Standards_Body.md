@@ -1,5 +1,6 @@
 ---
 title: International_Regulations_and_Standards_Body
+layout: wiki
 ---
 The *'International Regulations and Standards Body* (IRSB,
 *Olosijejvizdadromkanlajzjanfos* in

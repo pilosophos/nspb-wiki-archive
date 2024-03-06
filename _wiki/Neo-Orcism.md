@@ -1,5 +1,6 @@
 ---
 title: Neo-Orcism
+layout: wiki
 ---
 **The Neo-Orcish Movement** began in [Erothena](Erothena "wikilink") in
 the early 2010s, formed around important cultural thinkers like Garesh

@@ -1,5 +1,6 @@
 ---
 title: Clairvoyance
+layout: wiki
 ---
 **Clairvoyance** is an interdisciplinary field that unites sociology and
 [Thaumaturgy](Thaumaturgy "wikilink") for the prediction of events in

@@ -1,5 +1,6 @@
 ---
 title: Zloije_(business)
+layout: wiki
 ---
 *This article is about zloije in their business/corporate capacity. For
 the related geopolitical entities, see [Wards and cities of

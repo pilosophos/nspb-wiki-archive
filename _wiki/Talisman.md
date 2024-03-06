@@ -1,5 +1,6 @@
 ---
 title: Talisman
+layout: wiki
 ---
 A **talisman** is an occult object, typically small and portable,
 created to produce some magical effect. Talismans are generally less

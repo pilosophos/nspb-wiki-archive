@@ -1,5 +1,6 @@
 ---
 title: Architecture_in_Malaszec
+layout: wiki
 ---
 Within [Malaszec](Malaszec "wikilink") are many cities of various ages.
 Older cities like

@@ -1,5 +1,6 @@
 ---
 title: Malaszec_language
+layout: wiki
 ---
 *This page is about the Malaszec language and its grammar. For its
 vocabulary, see [Malaszec vocabulary](Malaszec_vocabulary "wikilink")*

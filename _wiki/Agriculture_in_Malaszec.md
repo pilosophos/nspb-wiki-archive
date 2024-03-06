@@ -1,5 +1,6 @@
 ---
 title: Agriculture_in_Malaszec
+layout: wiki
 ---
 Almost 71% of [Malaszec's](Malaszec "wikilink") land is agricultural
 land used for grazing, irrigation farming, and dryland farming. Nearly

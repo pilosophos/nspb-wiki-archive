@@ -1,5 +1,6 @@
 ---
 title: Talzos_Lasven
+layout: wiki
 ---
 **Talzos Asalija Lasven** (born 31 December 1936) is a magically-altered
 baobab-[ent](ent "wikilink") currently the president of the heavy

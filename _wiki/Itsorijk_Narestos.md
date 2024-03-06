@@ -1,5 +1,6 @@
 ---
 title: Itsorijk_Narestos
+layout: wiki
 ---
 The toy department of the People's Household Goods Commission had never
 been a priority to the Communist Malaszec government. Malaszec kids'

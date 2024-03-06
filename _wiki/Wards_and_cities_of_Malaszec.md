@@ -1,5 +1,6 @@
 ---
 title: Wards_and_cities_of_Malaszec
+layout: wiki
 ---
 *This article is about wards as geopolitical entities. For the related
 corporate entities, see [Zloije

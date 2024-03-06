@@ -1,5 +1,6 @@
 ---
 title: Legendary_origins_of_the_Malaszec
+layout: wiki
 ---
 Various mythical origin stories exist regarding the origin of the
 Malaszec people. Of these, the most well known is the legend of the

@@ -1,5 +1,6 @@
 ---
 title: Malaszec
+layout: wiki
 ---
 **Malaszec**, officially known as **The Federation of Malaszec**, is a
 coastal tropical country inhabited by humans,

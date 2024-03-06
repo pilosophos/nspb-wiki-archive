@@ -1,5 +1,6 @@
 ---
 title: Philosophy_of_Order
+layout: wiki
 ---
 The **Philosophy of Order** ("lajnromnala" in
 [Malaszec](Malaszec_language "wikilink")), or simply Order, is the idea

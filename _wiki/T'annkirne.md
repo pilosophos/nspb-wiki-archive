@@ -1,5 +1,6 @@
 ---
 title: T'annkirne
+layout: wiki
 ---
 **T'annkirne**, or the **Free Islands of T'annkirne** is a country of
 many subarctic islands, inhabited predominantly by

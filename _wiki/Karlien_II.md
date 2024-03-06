@@ -1,5 +1,6 @@
 ---
 title: Karlien_II
+layout: wiki
 ---
 High King Karlien II, also known as the "Tinkerer King", was a High King
 of the Palm from 1799 until his death in 1862. He is best known for his

@@ -1,5 +1,6 @@
 ---
 title: Vyasastan
+layout: wiki
 ---
 **Vyasastan**, officially known as **The Commonwealth of Vyasastan**, is
 a continental boreal country located at the southern tip of Samarah

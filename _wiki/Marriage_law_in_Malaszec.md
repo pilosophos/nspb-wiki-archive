@@ -1,5 +1,6 @@
 ---
 title: Marriage_law_in_Malaszec
+layout: wiki
 ---
 In Malaszec, all Zloije have marriage law except for Rescija, which has
 had no legal marriage for any species since 1932. Among most Malaszec

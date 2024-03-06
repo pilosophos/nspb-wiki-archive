@@ -1,5 +1,6 @@
 ---
 title: Oneirology
+layout: wiki
 ---
 **Oneirology** is the study of dreams, the events which occur within
 dreams, the rules which govern the dream reality, and the affects that

@@ -1,5 +1,6 @@
 ---
 title: Languages_in_Malaszec
+layout: wiki
 ---
 Although [Malaszec](Malaszec "wikilink")'s main language is the
 [Malaszec language](Malaszec_language "wikilink"), the country has many

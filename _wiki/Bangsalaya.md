@@ -1,5 +1,6 @@
 ---
 title: Bangsalaya
+layout: wiki
 ---
 **Bangsalaya**, officially the **Federation of Bangsalaya**, is a
 country located in eastern Samara. Spanning 1,238,294 square kilometers

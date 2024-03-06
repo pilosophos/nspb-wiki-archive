@@ -1,5 +1,6 @@
 ---
 title: List_of_magical_studies
+layout: wiki
 ---
 Magical studies are areas of research about magic or the effects of
 magic. These are sometimes known as occult studies.

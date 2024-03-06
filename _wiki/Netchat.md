@@ -1,5 +1,6 @@
 ---
 title: Netchat
+layout: wiki
 ---
 *Netchat* is an instant messaging protocol that allows users to connect
 to chatrooms hosted on netchat servers to connect with other users

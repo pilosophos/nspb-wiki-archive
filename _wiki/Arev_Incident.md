@@ -1,5 +1,6 @@
 ---
 title: Arev_Incident
+layout: wiki
 ---
 The **Arev Incident** was a ecological accident in June 14 of 2047 that
 caused the countryside surrounding the former town of Arev to become

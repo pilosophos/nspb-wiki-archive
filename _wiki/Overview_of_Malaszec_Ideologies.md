@@ -1,5 +1,6 @@
 ---
 title: Overview_of_Malaszec_Ideologies
+layout: wiki
 ---
 This is an overview of ideologies which originated in Malaszec or were
 influential in Malaszec's history.

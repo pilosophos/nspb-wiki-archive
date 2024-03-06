@@ -1,5 +1,6 @@
 ---
 title: Heraneres
+layout: wiki
 ---
 **Heranres**, also known as the **Festival of Fire**, the **burning
 days** or **the purification**, is an [Erothenian](Erothena "wikilink")

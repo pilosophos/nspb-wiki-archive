@@ -1,5 +1,6 @@
 ---
 title: Hjalmet_Khalndroff
+layout: wiki
 ---
 ## Early Life and Education
 

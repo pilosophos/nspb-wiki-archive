@@ -1,5 +1,6 @@
 ---
 title: Ent
+layout: wiki
 ---
 Ents are humanoid trees.
 

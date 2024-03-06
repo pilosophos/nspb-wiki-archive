@@ -1,5 +1,6 @@
 ---
 title: List_of_former_Malaszec_colonies
+layout: wiki
 ---
 This is a list of former [Malaszec](Malaszec "wikilink") colonies, which
 were established during the final Malaszec Empire.

@@ -1,5 +1,6 @@
 ---
 title: Orc
+layout: wiki
 ---
 Orcs are bipedal sentient beings.
 

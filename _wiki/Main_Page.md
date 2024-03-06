@@ -1,5 +1,6 @@
 ---
 title: Main_Page
+layout: wiki
 ---
 __NOTOC__ Welcome to the Wiki for the Great NSPB Canon! You need to
 create an account and ask PI for Contributor status before you can edit

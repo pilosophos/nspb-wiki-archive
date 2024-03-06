@@ -1,5 +1,6 @@
 ---
 title: Korerida
+layout: wiki
 ---
 The **Korerida** Corporation is one of the four Erothenian
 Megacorporations, with a near complete control of the nations mana

@@ -1,5 +1,6 @@
 ---
 title: Tormansco-Galleno_Equations
+layout: wiki
 ---
 The **Tormansco-Galleno Equations** are a series of equation that are
 utilized by [clairvoyants](Clairvoyance "wikilink") in order to predict

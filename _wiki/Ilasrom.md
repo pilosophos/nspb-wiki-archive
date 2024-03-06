@@ -1,5 +1,6 @@
 ---
 title: Ilasrom
+layout: wiki
 ---
 **Ilasrom Oronkan** known internationally as **Farmhand Ltd.**, is a
 [Malaszec](Malaszec "wikilink") company providing security, courier

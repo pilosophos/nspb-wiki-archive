@@ -1,5 +1,6 @@
 ---
 title: Virna_Opel
+layout: wiki
 ---
 **Virna Opel**, born 12 February 1922, is the current President of
 [Sevorod Zloije](Zloije_(business)#Sevorod "wikilink"), a

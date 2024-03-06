@@ -1,5 +1,6 @@
 ---
 title: Nevexyl
+layout: wiki
 ---
 Nevexyl, officially the Nevexylan Empire, is an isolated nation situated
 on the (PENINSULA NAME). Nevexyl borders [Name

@@ -1,5 +1,6 @@
 ---
 title: Geyser_Island
+layout: wiki
 ---
 **Geyser Island** is an island in the sea between
 [Erothena](Erothena "wikilink") and [Malaszec](Malaszec "wikilink")

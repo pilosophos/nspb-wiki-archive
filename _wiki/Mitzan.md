@@ -1,5 +1,6 @@
 ---
 title: Mitzan
+layout: wiki
 ---
 **Mitzan** is a bat-and-ball team sport with nine flying
 broomstick-mounted players on each of the two teams, typically played on

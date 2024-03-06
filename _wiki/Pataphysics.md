@@ -1,5 +1,6 @@
 ---
 title: Pataphysics
+layout: wiki
 ---
 **Pataphysics** is the study of hyperreal and irreal regions which are
 formed under certain hyperthaumic conditions in which the distinction

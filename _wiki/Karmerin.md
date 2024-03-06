@@ -1,5 +1,6 @@
 ---
 title: Karmerin
+layout: wiki
 ---
 **Karmerin** or *Karmerinn*, unofficially known as the *Federated States
 of Karmerin* is an archipelago located north of

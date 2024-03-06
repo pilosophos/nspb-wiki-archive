@@ -1,5 +1,6 @@
 ---
 title: Sphaerium
+layout: wiki
 ---
 **Sphaerium**, natively **Dholeus Margej** (*"Curve within Completion"*,
 *"Circle"*) and *T'onaesa Magaj* among [K'aajite

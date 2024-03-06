@@ -1,5 +1,6 @@
 ---
 title: Name_Pending
+layout: wiki
 ---
 **\[Name Pending\]** (formerly the Grand Kingdom of the Palm) is a
 country situated upon [the Palm](the_Palm "wikilink") that borders

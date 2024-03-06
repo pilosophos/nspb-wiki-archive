@@ -1,5 +1,6 @@
 ---
 title: Alzar_Gjarszan
+layout: wiki
 ---
 **Alzar Gjarszan** (27 September 1976 - 14 October 2042) was a science
 fiction writer most associated with the Blue Sky series of books,
