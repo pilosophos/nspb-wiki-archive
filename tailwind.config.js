@@ -15,15 +15,22 @@ module.exports = {
             maxWidth: '100ch',
             td: {
               border: "1px solid gray",
-              padding: ".5em"
+              padding: ".5em",
             },
             tr: {
-              border: "1px solid gray"
+              border: "1px solid gray",
             },
             th: {
               border: "1px solid gray",
               "background-color": "lightgray",
-              padding: ".5em"
+              padding: ".5em",
+            },
+            a: {
+              "text-decoration": "none",
+              "color": "#3366cc",
+            },
+            "a:visited": {
+              "color": "#795cb2",
             }
           }
         }
