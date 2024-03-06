@@ -410,18 +410,62 @@ details.
 
 ### Peripheral case clitics
 
-|                              | Mundane | Arcane |
-|------------------------------|---------|--------|
-| Dative-Benefactive           | lij     | esz    |
-| Instrumental-Comitative      | dala    | szak   |
-| Ablative-Causative           | vras    | mij    |
-| Locative ("in, at")          | ren     |        |
-| Illative ("into")            | osz     |        |
-| Distantative ("beyond")      | atvij   |        |
-| Temporal ("during")          | na      |        |
-| Intrative ("between, among") | ivis    |        |
-
-Peripheral case clitics
+<table class="wikitable">
+<caption>Peripheral case clitics
+</caption>
+<tbody><tr>
+<th>
+</th>
+<th>Mundane
+</th>
+<th>Arcane
+</th></tr>
+<tr>
+<th>Dative-Benefactive
+</th>
+<td>lij
+</td>
+<td>esz
+</td></tr>
+<tr>
+<th>Instrumental-Comitative
+</th>
+<td>dala
+</td>
+<td>szak
+</td></tr>
+<tr>
+<th>Ablative-Causative
+</th>
+<td>vras
+</td>
+<td>mij
+</td></tr>
+<tr>
+<th>Locative ("in, at")
+</th>
+<td colspan="2">ren
+</td></tr>
+<tr>
+<th>Illative ("into")
+</th>
+<td colspan="2">osz
+</td></tr>
+<tr>
+<th>Distantative ("beyond")
+</th>
+<td colspan="2">atvij
+</td></tr>
+<tr>
+<th>Temporal ("during")
+</th>
+<td colspan="2">na
+</td></tr>
+<tr>
+<th>Intrative ("between, among")
+</th>
+<td colspan="2">ivis
+</td></tr></tbody></table>
 
 Peripheral case clitics may follow a core case clitic. When this
 happens, the core case clitic no longer expresses its syntactic
