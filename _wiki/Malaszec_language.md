@@ -61,14 +61,40 @@ letters in the underlying representation, with the featural
 specifications in the following table. As the first vowel in a word, /ɒ/
 is considered -ATR for dark harmony.
 
-| Underspecified vowel                       | Realisation         |
-|--------------------------------------------|---------------------|
-| <small>light</small>                       | <small>dark</small> |
-| ⫽E⫽ <small>\[-front, -low, -high\]</small> | /e/                 |
-| ⫽I⫽ <small>\[+front, -low, +high\]</small> | /i/                 |
-| ⫽O⫽ <small>\[+front, -low, -high\]</small> | /o/                 |
-
-Malaszec vowel readings
+<table class="wikitable" style="text-align:center">
+<caption>Malaszec vowel readings
+</caption>
+<tbody><tr>
+<th rowspan="2">Underspecified vowel
+</th>
+<th colspan="2">Realisation
+</th></tr>
+<tr>
+<th><small>light</small>
+</th>
+<th><small>dark</small>
+</th></tr>
+<tr>
+<th>⫽E⫽ <small>[-front, -low, -high]</small>
+</th>
+<td>/e/
+</td>
+<td>/ɛ/
+</td></tr>
+<tr>
+<th>⫽I⫽ <small>[+front, -low, +high]</small>
+</th>
+<td>/i/
+</td>
+<td>/ɪ/
+</td></tr>
+<tr>
+<th>⫽O⫽ <small>[+front, -low, -high]</small>
+</th>
+<td>/o/
+</td>
+<td>/ɔ/
+</td></tr></tbody></table>
 
 ### Phonological rules
 
