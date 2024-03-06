@@ -1,10 +1,12 @@
 <html>
 <head>
   <title>{{ page.title | replace: "_", " " }}</title>
+  <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body>
-  <h1>{{ page.title | replace: "_", " " }}</h1>
-  
-  <main class="prose">{{ content }}</main>
+  <main class="container prose">
+    <h1>{{ page.title | replace: "_", " " }}</h1>
+    {{ content }}
+  </main>
 </body>
 </html>
