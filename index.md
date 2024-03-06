@@ -4,7 +4,7 @@ layout: prose
 ---
 
 # The NSPB Canon Wiki Archive
-This is an archive of the NSPB Canon Wiki (formerly hosted at the now defunct `nspbcanon.miraheze.org`). It was created from a [Wiki dump](https://www.mediawiki.org/wiki/Manual:DumpBackup.php) of the original wiki taken on October 8, 2023. The original [main page](wiki/Main_Page) can be found [here](wiki/Main_Page).
+This is an archive of the NSPB Canon Wiki (formerly hosted at the now defunct `nspbcanon.miraheze.org`). It was created from a [Wiki dump](https://www.mediawiki.org/wiki/Manual:DumpBackup.php) of the original wiki taken on October 8, 2023. A [list of pages that survived the archive](wiki/:Special:AllPages) is [here](wiki/:Special:AllPages), and the original [main page](wiki/Main_Page) can be found [here](wiki/Main_Page).
 
 Certain content available in the original wiki was not preserved in the dump and is therefore absent from this archive:
 - Author names
