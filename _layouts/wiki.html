@@ -4,9 +4,13 @@
   <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body>
-  <main class="container prose">
-    <h1>{{ page.title | replace: "_", " " }}</h1>
-    {{ content }}
-  </main>
+  <div class="prose mx-auto">
+    {% include archive_warning.html %}
+
+    <main>
+      <h1>{{ page.title | replace: "_", " " }}</h1>
+      {{ content }}
+    </main>
+  </div>
 </body>
 </html>
